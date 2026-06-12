@@ -227,8 +227,6 @@ Gunakan:
 
 # 🧹 Best Practice
 
-* Jangan upload `.env`
-* Gunakan virtual environment
 * Gunakan migration untuk perubahan DB
 
 ---
@@ -236,3 +234,4 @@ Gunakan:
 # 👨‍💻 Developer
 
 Project Tugas Akhir Backend FastAPI 🚀
+by Sultan Maulana Ichiro
